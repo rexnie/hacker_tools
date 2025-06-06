@@ -1,0 +1,3 @@
+[submodule "parse_kernel_log_buf"]
+	path = parse_kernel_log_buf
+	url = https://extbit.xx.com/projects/bmc/repos/parse_kernel_log_buf/
